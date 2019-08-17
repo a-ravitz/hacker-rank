@@ -21,6 +21,8 @@ function rotLeft(a, d) {
       
   }
 
+  console.log(newArr) 
+
 }
 
 rotLeft(arr, d);
