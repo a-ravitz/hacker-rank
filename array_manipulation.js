@@ -43,9 +43,9 @@ function arrayManipulation(n, queries) {
   }
 
   for (let i = 0; i < len; i++) {
-    /*a = queries[i][0] - 1;
-      b = queries[i][1];
-      k = queries[i][2]; */
+        /*a = queries[i][0] - 1;
+        b = queries[i][1];
+        k = queries[i][2]; */
 
     arr[queries[i][0] - 1] += queries[i][2];
     if (queries[i][1] < arr.length) {
