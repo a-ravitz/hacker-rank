@@ -1,6 +1,6 @@
 
 let n = 5;
-let queries = [[1, 2, 100], [2, 5, 100], [3, 4, 100]];
+let queries = [[1, 2, 140], [2, 5, 100], [3, 4, 100]];
 // //solution without prefix sum
 
 // function arrayManipulation(n, queries) {
@@ -20,7 +20,7 @@ let queries = [[1, 2, 100], [2, 5, 100], [3, 4, 100]];
 //   }
 //     for (let j = 0; j < len; j++) {
 
-//     let b = queries[j][1] - 1
+//     let b = queries[j][1] 
 //     let k = queries[j][2]
 //         for(let a = queries[j][0] - 1; a <= b; a++ ) {
 //             arr[a] += k
@@ -42,8 +42,12 @@ function arrayManipulation(n, queries) {
     arr.push(0);
   }
 
+  /*creating the prefix sum array
+  adding k to the first index given in the query array (-1 because its not a 0 based array)
+  and adding the negative verion to the second index given in the query array */
   for (let i = 0; i < len; i++) {
-        /*a = queries[i][0] - 1;
+        
+    /*a = queries[i][0] - 1;
         b = queries[i][1];
         k = queries[i][2]; */
 
@@ -51,8 +55,12 @@ function arrayManipulation(n, queries) {
     if (queries[i][1] < arr.length) {
       arr[queries[i][1]] -= queries[i][2];
     }
+    console.log(arr)
   }
 
+  /*here we're adding the numbers up, but we do not include 
+  arr[arr.length-1] */
+  
   for (let a = 1; a < n; a++) {
     arr[a] += arr[a - 1];
   }
