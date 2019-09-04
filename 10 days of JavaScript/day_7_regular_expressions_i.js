@@ -1,6 +1,5 @@
 function regexVar() {
-
-
+    
     // /'s begin and end the statment
     // ^ denotes the first character
     // ([contents]) ~ the contents are characters that we're trying to match for the beginning
@@ -9,9 +8,7 @@ function regexVar() {
     was captured inside the parentheses in step 1. */
     // $ Matches end of input
 
-    
     const re = /^([aeiou]).*\1$/
-
     return re;
 }
 
