@@ -1,8 +1,3 @@
-# hacker-rank
-
-## solutions to hacker rank problems 
-
-Attempting to complete as many hacker-rank problems I can to practice, these are the best solutions I could come up with 
 ## Algorithms
 
 HackerRank | Difficulty Level | Solution
@@ -11,7 +6,11 @@ HackerRank | Difficulty Level | Solution
 [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/compare_the_triplets.js)
 [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/a_very_big_sum.js)
 [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/diagonal_difference.js)
-
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/plusMinus.js)
+[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/staircase.js)
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)
+[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)
+[The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)
 ## 10 Days of JavaScript
 
 HackerRank | Difficulty Level | Solution | Finished Product
