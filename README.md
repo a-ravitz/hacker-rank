@@ -30,7 +30,7 @@ HackerRank | Difficulty Level | Solution | Finished Product
 [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_7_regular_expressions_ii.js)|
 [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_7_regular_expressions_iii.js)|
 [Day 8: Create A button](https://www.hackerrank.com/challenges/js10-create-a-button?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_create_a_button)|
-[Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_buttons_container)|
+[Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_buttons_container)|[Buttons Container](https://a-ravitz.github.io/hacker-rank/10%20days%20of%20JavaScript/day_8_buttons_container/index.html)
 [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator?hr_b=1)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_9_binary_calculator)|[Binary Calculator](https://a-ravitz.github.io/binary-calculator/)
 
 
