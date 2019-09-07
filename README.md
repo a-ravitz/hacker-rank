@@ -26,6 +26,15 @@ HackerRank | Difficulty Level | Solution
 [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_5_template_literals.js)
 [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_6_bitwise_operators.js)
 [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_6_javascript_dates.js)
+[Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_7_regular_expressions_i.js)
+[Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_7_regular_expressions_ii.js)
+[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_7_regular_expressions_iii.js)
+[Day 8: Create A button](https://www.hackerrank.com/challenges/js10-create-a-button?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_create_a_button)
+[Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_buttons_container)
+[Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator?hr_b=1)|Medium|[Code]()https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_9_binary_calculator
+
+
+
 
 
 
