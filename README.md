@@ -21,8 +21,11 @@ HackerRank | Difficulty Level | Solution
 [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_3_throw.js)
 [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_4_create_a_rectangle_object.js)
 [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/proble)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_4_count_objects.js)
-
-
+[Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_4_classes.js)
+[Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_5_inheritance.js)
+[Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_5_template_literals.js)
+[Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_6_bitwise_operators.js)
+[Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/10%20days%20of%20JavaScript/day_6_javascript_dates.js)
 
 
 
