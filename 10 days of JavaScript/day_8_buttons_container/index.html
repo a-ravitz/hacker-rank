@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Buttons Grid</title>
-    <link rel="stylesheet" href="../css/buttonsGrid.css" type="text/css" />
+    <link rel="stylesheet" href="css/buttonsGrid.css" type="text/css" />
   </head>
   <body>
     <div id="btns">
@@ -20,17 +20,5 @@
       <button id="btn9" class="buttons">9</button>
     </div>
   </body>
-  <script>
-    let nums = [1, 2, 3, 6, 9, 8, 7, 4];
-    const ids = [1, 2, 3, 6, 9, 8, 7, 4];
-
-    let btn5 = document.getElementById("btn5");
-
-    btn5.onclick = function() {
-      nums.unshift(nums.pop());
-      for (i = 0; i <= 7; i++) {
-          document.getElementById("btn" + ids[i]).innerHTML = nums[i];
-        }
-    }
-  </script>
+  <script src="js/buttonsGrid.js"></script>
 </html>
