@@ -6,7 +6,12 @@ Attempting to complete as many hacker-rank problems I can to practice, these are
 ## Algorithms
 
 HackerRank | Difficulty Level | Solution
+----------|-------------------|----------
 [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/simple_array_sum.js)
+[Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/compare_the_triplets.js)
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/a_very_big_sum.js)
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/diagonal_difference.js)
+
 ## 10 Days of JavaScript
 
 HackerRank | Difficulty Level | Solution | Finished Product
