@@ -1,4 +1,4 @@
-## Algorithms
+# Algorithms
 
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|----------
@@ -11,7 +11,7 @@ HackerRank | Difficulty Level | Solution
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)
-## 10 Days of JavaScript
+# 10 Days of JavaScript
 
 HackerRank | Difficulty Level | Solution | Finished Product
 --------------|------------------|----------|-----------
@@ -40,7 +40,7 @@ HackerRank | Difficulty Level | Solution | Finished Product
 [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_buttons_container)|[Buttons Container](https://a-ravitz.github.io/hacker-rank/10%20days%20of%20JavaScript/day_8_buttons_container/index.html)
 [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator?hr_b=1)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_9_binary_calculator)|[Binary Calculator](https://a-ravitz.github.io/hacker-rank/10%20days%20of%20JavaScript/day_9_binary_calculator/index.html)
 
-## Interview Preperation Kit
+# Interview Preperation Kit
 ## Warm-up Challenges
 
 HackerRank | Difficulty Level | Solution
@@ -49,8 +49,7 @@ HackerRank | Difficulty Level | Solution
 [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Easy | [Code](https://github.com/a-ravitz/hacker-rank/blob/master/countingValleys.js)
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Easy | [Code](https://github.com/a-ravitz/hacker-rank/blob/master/repeated_string.js)
 [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Easy |
-
-
+## Arrays
 
 
 
