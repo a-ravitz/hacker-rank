@@ -21,24 +21,3 @@ function repeatedString(s, n) {
 console.log(repeatedString('aab', 10))
 console.log(repeatedString('epsxyyflvrrrxzvnoenvpegvuonodjoxfwdmcvwctmekpsnamchznsoxaklzjgrqruyzavshfbmuhdwwmpbkwcuomqhiyvuztwvq', 549382313570))
 console.log(repeatedString('gfcaaaecbg', 547602))
-// my best solution, getting close to the one above but not thinking clealry, 
-// no where near as elegant as Anthony Nandaa's solution above
-
-
-// function repeatedString(s, n) {
-
-//     let count = 0
-
-//     if (s.match(/a/g) == null) {
-//         return 0
-
-//     } else {
-//         let countA = s.match(/a/g).length  => same as counta above
-//         let float = countA * (n / s.length)
-//         count = Math.floor(float)
-//         if (float % 1 > .6) {
-//             count ++
-//         }
-//         return count
-//     }
-// }
