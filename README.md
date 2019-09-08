@@ -57,5 +57,10 @@ HackerRank | Difficulty Level | Solution
 [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_swaps.js)
 [New Years Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Hard|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/array_manipulation.js)
+## Sorting
+HackerRank | Difficulty Level | Solution
+----------|-------------------|----------
+[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
+[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mark_and_toys.js)
 
 
