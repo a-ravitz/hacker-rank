@@ -11,6 +11,7 @@ HackerRank | Difficulty Level | Solution
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)
+
 # 10 Days of JavaScript
 
 HackerRank | Difficulty Level | Solution | Finished Product
@@ -49,7 +50,9 @@ HackerRank | Difficulty Level | Solution
 [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Easy | [Code](https://github.com/a-ravitz/hacker-rank/blob/master/countingValleys.js)
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Easy | [Code](https://github.com/a-ravitz/hacker-rank/blob/master/repeated_string.js)
 [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Easy |
+
 ## Arrays
+
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|----------
 [2D Array](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/2dArray.js)
@@ -57,7 +60,9 @@ HackerRank | Difficulty Level | Solution
 [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_swaps.js)
 [New Years Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Hard|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/array_manipulation.js)
+
 ## Sorting
+
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|----------
 [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
