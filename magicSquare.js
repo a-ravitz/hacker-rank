@@ -1,0 +1,6 @@
+
+
+function formingMagicSquare(s) {
+
+
+}
