@@ -14,6 +14,7 @@ HackerRank | Difficulty Level | Solution
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/grading_students.js)
 [Apples And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/apples_and_oranges.js)
 [Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)
+[Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)
 
 
