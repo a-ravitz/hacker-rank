@@ -10,7 +10,9 @@ HackerRank | Difficulty Level | Solution
 [Staircase](https://www.hackerrank.com/challenges/staircase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/staircase.js)
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)
+[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthday_cake_candles.js)
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)
+
 
 # 10 Days of JavaScript
 
