@@ -1,4 +1,4 @@
-## Algorithms
+# Algorithms
 
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|----------
@@ -11,7 +11,8 @@ HackerRank | Difficulty Level | Solution
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)
-## 10 Days of JavaScript
+
+# 10 Days of JavaScript
 
 HackerRank | Difficulty Level | Solution | Finished Product
 --------------|------------------|----------|-----------
@@ -40,7 +41,7 @@ HackerRank | Difficulty Level | Solution | Finished Product
 [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_buttons_container)|[Buttons Container](https://a-ravitz.github.io/hacker-rank/10%20days%20of%20JavaScript/day_8_buttons_container/index.html)
 [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator?hr_b=1)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_9_binary_calculator)|[Binary Calculator](https://a-ravitz.github.io/hacker-rank/10%20days%20of%20JavaScript/day_9_binary_calculator/index.html)
 
-## Interview Preperation Kit
+# Interview Preperation Kit
 ## Warm-up Challenges
 
 HackerRank | Difficulty Level | Solution
@@ -50,8 +51,21 @@ HackerRank | Difficulty Level | Solution
 [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Easy | [Code](https://github.com/a-ravitz/hacker-rank/blob/master/repeated_string.js)
 [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Easy |
 
+## Arrays
 
+HackerRank | Difficulty Level | Solution
+----------|-------------------|----------
+[2D Array](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/2dArray.js)
+[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/left_rotation.js)
+[Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_swaps.js)
+[New Years Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|
+[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Hard|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/array_manipulation.js)
 
+## Sorting
 
+HackerRank | Difficulty Level | Solution
+----------|-------------------|----------
+[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
+[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mark_and_toys.js)
 
 
