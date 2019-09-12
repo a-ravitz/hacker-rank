@@ -1,5 +1,4 @@
 function encryption(s) {
-    
   let l = s.length;
   let c = Math.ceil(Math.sqrt(l));
   let r = Math.floor(Math.sqrt(l));
@@ -11,8 +10,8 @@ function encryption(s) {
   let array = [];
   let temp = "";
   let encrypted = "";
-  let count = 0;
 
+  
   for (let i = 0; i < l; i++) {
     temp += s[i];
 
@@ -22,19 +21,24 @@ function encryption(s) {
     }
   }
 
-  for (let a = 0; a <= r; count++, a++) {
+  for (let a = 0; a <= r; a++) {
     if (a > 0) {
       encrypted += " ";
     }
+
     for (let b = 0; b < array.length; b++) {
+
       if (array[b][a] !== undefined) {
         encrypted += array[b][a];
       } else {
-        encrypted += "", count++, b++;
+        encrypted += "", b++;
       }
     }
+    
   }
+
   return encrypted;
+  
 }
 
 console.log(encryption("feedthedog"));
