@@ -19,7 +19,7 @@ HackerRank | Difficulty Level | Solution
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)
 [Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/encryption.js)
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/extra_long_factorials.js)
-
+[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/pairs.js)
 
 # 10 Days of JavaScript
 
