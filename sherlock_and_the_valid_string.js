@@ -1,7 +1,7 @@
 function isValid(s) {
 
     let validator = {}
-   
+    
     //add items to map
     for (let i = 0; i < s.length; i++) {
         if (!validator[s[i]]) {
@@ -17,6 +17,7 @@ function isValid(s) {
     }
     //push items to array, sort based on value
     let sorted = toBeSorted.sort((a,b) => a[1] - b[1])
+    
     let n = sorted.length
     //conditionals 
     if (sorted[0][1] === sorted[n-1][1]) {
