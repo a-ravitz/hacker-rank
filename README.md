@@ -77,4 +77,9 @@ HackerRank | Difficulty Level | Solution
 [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
 [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mark_and_toys.js)
 
+## String Manipulation 
+
+HackerRank | Difficulty Level | Solution
+----------|-------------------|----------
+[Strings: Making Anagrams(https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/making_anagrams.js)
 
