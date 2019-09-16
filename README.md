@@ -81,5 +81,5 @@ HackerRank | Difficulty Level | Solution
 
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|----------
-[Strings: Making Anagrams(https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/making_anagrams.js)
+[Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/making_anagrams.js)
 
