@@ -20,6 +20,7 @@ HackerRank | Difficulty Level | Solution
 [Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/encryption.js)
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/extra_long_factorials.js)
 [Pairs](https://www.hackerrank.com/challenges/pairs/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/pairs.js)
+[Max Min](https://www.hackerrank.com/challenges/angry-children/problem|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/max_min.js)
 
 # 10 Days of JavaScript
 
