@@ -38,5 +38,5 @@ function makeAnagram(a, b) {
 
 // console.log(makeAnagram("cde", "abc"));
 console.log(makeAnagram('fcrxzwscanmligyxyvym', 'jxwtrhvujlmrpdoqbisbwhmgpmeoke'))
-console.log(makeAnagram("sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss",
-      "tttttttttttttttttttttttttttttttttttttsssssssssssssssss"));
+// console.log(makeAnagram("sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss",
+      // "tttttttttttttttttttttttttttttttttttttsssssssssssssssss"));
