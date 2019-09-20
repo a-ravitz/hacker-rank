@@ -1,57 +1,53 @@
 let q1 = [2, 1, 5, 3, 4];
-let q2 = [2, 5, 1, 3, 4];
+let q2 = [2, 5, 1, 3, 6, 5];
 let q3 = [5, 1, 2, 3, 7, 8, 6, 4];
 let q4 = [1, 2, 5, 3, 7, 8, 6, 4];
 
 function minimumBribes(q) {
-  let n = q.length,
-    counter = {},
-    z = 0,
-    value;
 
-  for (let i = 0; i < n; i++) {
-    if (q[i] > q[i + 1]) {
-      let temp = q[i];
-      q[i] = q[i + 1];
-      q[i + 1] = temp;
-      i = 0;
+  let count = 0;
 
-      if (counter[temp]) {
-        counter[temp]++;
+  for (let i = q.length-1; i >= 0; i--) {
+
+    //filter the cases where no bribes have been made
+    if (q[i] !== i + 1) {
+
+      //make sure i-1 >= 0 so we do not continue past the beginning of the line
+      //if the person before q[i] is supposed to be at i+1 (because its not an 0 based array)
+      //swap them 
+      if(i - 1 >= 0 && q[i-1] === i+1) {
+        count++
+        swap(q, i, i-1)
+
+      //make sure i-2 >= 0 so we do not continue past the beginning of the line
+      //if the person before q[i-2] is supposed to be at i+1 (because its not an 0 based array)
+      //swap them, and the person after them 
+      } else if(i-2 >= 0 && q[i-2] === i+1) {
+        count += 2
+
+        swap(q, i-2, i-1)
+        swap(q, i-1, i)
+
+        //or else its just too chaotic 
       } else {
-        counter[temp] = 1;
+        return 'Too chaotic'
       }
     }
-  }
-  for (value in counter) {
-    if (counter[value] > 2) {
-      z = "Too chaotic";
-      break;
-    } else {
-      z = Object.values(counter).reduce((a, b) => a + b, 0);
-    }
+
   }
 
-  console.log(z);
+  //this function is basically the same function from the minimum swaps problem
+  function swap (q, a, b) {
+    let temp = q[a]
+    q[a] = q[b]
+    q[b] = temp
+  }
+  
+  return count;
 }
 
-//gabriel giordan's solution, much better than mine
-function minimumBribes(q) {
-  let n = q.length;
 
-  let c = 0;
-  for (let p = n; p-- > 0; ) {
-    if (q[p] - (p + 1) > 2) {
-      c = "Too chaotic";
-      break;
-    }
-    for (let j = Math.max(q[p]) - 2; j < p; j++) {
-      if (q[j] > q[p]) c++;
-    }
-  }
-  console.log(c);
-}
-minimumBribes(q1);
-minimumBribes(q2);
-minimumBribes(q3);
-minimumBribes(q4);
+// console.log(minimumBribes(q1));
+// console.log(minimumBribes(q2));
+console.log(minimumBribes(q3));
+console.log(minimumBribes(q4));

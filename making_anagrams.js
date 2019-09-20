@@ -12,6 +12,7 @@ function makeAnagram(a, b) {
       }
     }
   }
+  
   for (let j = 0; j < b.length; j++) {
     if (a.includes(b[j])) {
       if (!string2[b[j]]) {

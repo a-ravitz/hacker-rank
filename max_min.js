@@ -5,14 +5,18 @@ function maxMin(k, arr) {
 
   for (let i = 0; i < arr.length; i++) {
     if (i + (k - 1) < arr.length) {
+
       let temp = sorted[i + (k - 1)] - sorted[i];
+
       if (!min) {
         min = temp;
       } else if (temp < min) {
         min = temp;
       }
     }
+
   }
+  
   return min;
 
 }
