@@ -68,7 +68,7 @@ HackerRank | Difficulty Level | Solution
 [2D Array](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/2dArray.js)
 [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/left_rotation.js)
 [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_swaps.js)
-[New Years Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|
+[New Years Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/new_year_chaos.js)
 [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|Hard|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/array_manipulation.js)
 
 ## Sorting
