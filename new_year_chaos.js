@@ -1,5 +1,5 @@
 let q1 = [2, 1, 5, 3, 4];
-let q2 = [2, 5, 1, 3, 6, 5];
+let q2 = [2, 5, 1, 3, 4];
 let q3 = [5, 1, 2, 3, 7, 8, 6, 4];
 let q4 = [1, 2, 5, 3, 7, 8, 6, 4];
 
@@ -42,12 +42,12 @@ function minimumBribes(q) {
     q[a] = q[b]
     q[b] = temp
   }
-  
+
   return count;
 }
 
 
-// console.log(minimumBribes(q1));
-// console.log(minimumBribes(q2));
+console.log(minimumBribes(q1));
+console.log(minimumBribes(q2));
 console.log(minimumBribes(q3));
 console.log(minimumBribes(q4));
