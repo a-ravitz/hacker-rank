@@ -77,7 +77,7 @@ HackerRank | Difficulty Level | Solution|Notes
 ----------|-------------------|----------|---------
 [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|
 [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mark_and_toys.js)|
-[Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sorting_comparator.js)|There was no way to test this on HackerRank, but I think this solution would work. 
+[Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sorting_comparator.js)|There was no way to test this on HackerRank with JavaScript, but I think this solution would work. 
 
 ## String Manipulation 
 
