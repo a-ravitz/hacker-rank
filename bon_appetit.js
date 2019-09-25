@@ -1,8 +1,6 @@
 let bill = [ 3, 10, 2, 9 ] 
 let index = 1 
-let annasPrice = 12
-
-
+let annasMoney = 12
 
 function bonAppetit(bill, k, b) {
 
