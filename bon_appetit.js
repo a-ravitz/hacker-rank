@@ -14,4 +14,5 @@ function bonAppetit(bill, k, b) {
     console.log(overPaid) 
 
 }
+
 bonAppetit(bill, index, annasPrice)
