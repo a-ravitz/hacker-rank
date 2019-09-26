@@ -19,8 +19,9 @@ function minimumSwaps(arr) {
     
     for(let i = 0; i < n; i++) {
         
-        if (arr[i] !== i+1) {
 
+        
+        if (arr[i] !== i+1) {
             let index = arr.indexOf(i+1)
             let temp = arr[i]
             arr[i] = arr[index]
