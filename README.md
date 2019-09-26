@@ -25,10 +25,12 @@ HackerRank | Difficulty Level | Solution
 [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/max_min.js)
 
 ## Mathematics 
-# 10 Days of JavaScript
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|----------
 [Handshake](https://www.hackerrank.com/challenges/handshake/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/handshakes.js)
+[Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/maximum_draws.js)
+
+# 10 Days of JavaScript
 
 HackerRank | Difficulty Level | Solution | Finished Product
 --------------|------------------|----------|-----------
