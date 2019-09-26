@@ -1,4 +1,5 @@
-# Algorithms
+# Practice
+## Algorithms
 
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|----------
@@ -23,7 +24,11 @@ HackerRank | Difficulty Level | Solution
 [Pairs](https://www.hackerrank.com/challenges/pairs/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/pairs.js)
 [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/max_min.js)
 
+## Mathematics 
 # 10 Days of JavaScript
+HackerRank | Difficulty Level | Solution
+----------|-------------------|----------
+[Handshake](https://www.hackerrank.com/challenges/handshake/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/handshakes.js)
 
 HackerRank | Difficulty Level | Solution | Finished Product
 --------------|------------------|----------|-----------
