@@ -30,6 +30,7 @@ HackerRank | Difficulty Level | Solution
 [Handshake](https://www.hackerrank.com/challenges/handshake/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/handshakes.js)
 [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/maximum_draws.js)
 [Army Game](https://www.hackerrank.com/challenges/game-with-cells)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/army_game.js)
+[Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_height_triangle.js)
 
 # 10 Days of JavaScript
 
