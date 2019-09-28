@@ -18,18 +18,3 @@ function primeCount(n) {
   }
 
 console.log(primeCount(10000000000))
-console.log(primeCount(614889782588491410));
-console.log(primeCount(614889782588491409));
-// console.log(primeCount(614889782588491408));
-// console.log(primeCount(614889782588491407));
-// console.log(primeCount(6148897825884914));
-// console.log(primeCount(614889782588));
-// console.log(primeCount(614889782588491410));
-// console.log(primeCount(614889782588491411));
-// console.log(primeCount(614889782588491412));
-// console.log(primeCount(614889782588491413));
-// console.log(primeCount(614889782588491415));
-
-
-
-
