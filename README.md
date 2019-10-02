@@ -97,4 +97,5 @@ HackerRank | Difficulty Level | Solution
 [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/making_anagrams.js)
 [Alternating Characters](https://www.hackerrank.com/interview/interview-preparation-kit/strings/challenges)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/alternating_characters.js)
 [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sherlock_and_the_valid_string.js)
+[Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/special_string_again.js)
 
