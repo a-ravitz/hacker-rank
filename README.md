@@ -13,6 +13,7 @@ HackerRank | Difficulty Level | Solution
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)
 [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthday_cake_candles.js)
+[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthdayChocolate.js)
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/grading_students.js)
 [Apples And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/apples_and_oranges.js)
 [Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)
