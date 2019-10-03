@@ -18,7 +18,7 @@ function birthday(s, d, m) {
           //if the new array has the proper amount of numbers in it, which equals m, move on to reducing its contents 
           if (arr.length === m) {
 
-            //have to parseInt(a) and parseInt(b) because they're strings, not integers 
+            //we need to parseInt(a) and parseInt(b) because they're strings, not integers 
               let reduced = arr.reduce((a, b) => parseInt(a) + parseInt(b));
 
               //if reduced is equal to d increase the count
@@ -27,13 +27,15 @@ function birthday(s, d, m) {
                 }
             }
         }
-        //if s.length === 1 then if that number 's[0]' === d increase the count 
+
+    //if s.length === 1 then if that number 's[0]' === d increase the count 
     } else {
+        
         if (s[0] === d) {
             count++;
         }
   }
-  
+
   return count;
 
 }
