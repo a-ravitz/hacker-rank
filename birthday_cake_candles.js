@@ -8,3 +8,4 @@ function birthdayCakeCandles(ar) {
 }
 
 console.log(birthdayCakeCandles([18, 90, 90, 13, 90, 75, 90, 8, 90, 43]))
+console.log(birthdayCakeCandles([44, 53, 31, 27, 77, 60, 66, 77, 26, 36]))
