@@ -19,6 +19,7 @@ HackerRank | Difficulty Level | Solution
 [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthdayChocolate.js)
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/grading_students.js)
 [Apples And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/apples_and_oranges.js)
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/migratory_birds.js)
 [Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)
 [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)
 [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/strongPassword.js)
