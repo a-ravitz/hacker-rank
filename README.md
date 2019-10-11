@@ -39,7 +39,7 @@ HackerRank | Difficulty Level | Solution | Notes
 [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/maximum_draws.js)|
 [Army Game](https://www.hackerrank.com/challenges/game-with-cells)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/army_game.js)|
 [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_height_triangle.js)|
-[Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/leonardos_prime_factors.js)|This code isn't effecient enough to pass test case #17
+[Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/leonardos_prime_factors.js)|This code isn't effecient enough to pass test case 17
 
 # 10 Days of JavaScript
 
