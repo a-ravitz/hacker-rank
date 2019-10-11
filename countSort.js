@@ -1,13 +1,18 @@
 function countSort(arr) {
         let output = ""
 
+        //arr[i][0] will never be higer then 100
         for (let i = 0; i <= 100; i ++) {
+
             for (let j = 0; j < arr.length; j++) {
+
                 if (parseInt(arr[j][0]) === i) {
+                    //if i is in the first half of the array, conver it to a '-'
+                    //else it is the character in arr[j][1]
                     if (j < arr.length/2) {
                         output += ('-' + " ")
                     } else {
-                    output += (arr[j][1] + " ")
+                        output += (arr[j][1] + " ")
                     }
                 }
             }
