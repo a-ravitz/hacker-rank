@@ -1,3 +1,4 @@
+//this solution is overly complicated 
 function pageCount(n, p) {
   let count = 0;
   //if the page you're going to is the last page then you didn't turn pages
@@ -44,7 +45,7 @@ function pageCount(n, p) {
 console.log(pageCount(5, 4));
 console.log(pageCount(6, 2));
 
-//a much better solution 
+//this is a much better solution 
 function pageCount(n, p) {
     /*
 		  n: the number of pages in the book
