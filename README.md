@@ -1,35 +1,36 @@
 # Practice
 ## Algorithms
 
-HackerRank | Difficulty Level | Solution
-----------|-------------------|----------
-[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/simple_array_sum.js)
-[Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/compare_the_triplets.js)
-[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/a_very_big_sum.js)
-[Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/bon_appetit.js)
-[Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=internal-search)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/breaking_the_records.js)
-[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/divisable_sum_pairs.js)
-[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/diagonal_difference.js)
-[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/plusMinus.js)
-[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/staircase.js)
-[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/kangaroo.js)
-[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)
-[Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/cats_and_a_mouse.js)
-[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)
-[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthday_cake_candles.js)
-[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthdayChocolate.js)
-[Grading Students](https://www.hackerrank.com/challenges/grading/problem) |Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/grading_students.js)
-[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_hurdle_race.js)
-[Apples And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/apples_and_oranges.js)
-[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/migratory_birds.js)
-[Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)
-[Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)
-[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/strongPassword.js)
-[The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)
-[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/encryption.js)
-[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/extra_long_factorials.js)
-[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/pairs.js)
-[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/max_min.js)
+HackerRank | Difficulty Level | Solution| Notes
+----------|-------------------|---------|-------
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/simple_array_sum.js)|
+[Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/compare_the_triplets.js)|
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/a_very_big_sum.js)|
+[Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/bon_appetit.js)|
+[Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=internal-search)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/breaking_the_records.js)|
+[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/divisable_sum_pairs.js)|
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/diagonal_difference.js)|
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/plusMinus.js)|
+[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/staircase.js)|
+[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/kangaroo.js)|
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)|
+[Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/cats_and_a_mouse.js)|
+[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)|
+[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthday_cake_candles.js)|
+[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthdayChocolate.js)|
+[Grading Students](https://www.hackerrank.com/challenges/grading/problem) |Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/grading_students.js)|
+[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_hurdle_race.js)|
+[Apples And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/apples_and_oranges.js)|
+[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/migratory_birds.js)|
+[Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)|
+[Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)|
+[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/strongPassword.js)|
+[The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)|
+[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/encryption.js)|
+[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/extra_long_factorials.js)|
+[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/pairs.js)|
+[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/max_min.js)|
+[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem?h_r=internal-search)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/countSort.js)|This code isn't effecient enough to pass test case 5
 
 ## Mathematics 
 HackerRank | Difficulty Level | Solution | Notes 
@@ -38,7 +39,7 @@ HackerRank | Difficulty Level | Solution | Notes
 [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/maximum_draws.js)|
 [Army Game](https://www.hackerrank.com/challenges/game-with-cells)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/army_game.js)|
 [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_height_triangle.js)|
-[Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/leonardos_prime_factors.js)|Works for all test cases except for #17, I am not sure why.
+[Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/leonardos_prime_factors.js)|This code isn't effecient enough to pass test case #17
 
 # 10 Days of JavaScript
 
@@ -105,4 +106,10 @@ HackerRank | Difficulty Level | Solution
 [Alternating Characters](https://www.hackerrank.com/interview/interview-preparation-kit/strings/challenges)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/alternating_characters.js)
 [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sherlock_and_the_valid_string.js)
 [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/special_string_again.js)
+
+## Miscellaneous
+
+HackerRank | Difficulty Level | Solution
+----------|-------------------|----------
+[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/flipping_bits.js)
 
