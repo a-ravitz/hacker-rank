@@ -1,5 +1,5 @@
 function countSort(arr) {
-        let output = ""
+        let output = ''
 
         //arr[i][0] will never be higer then 100
         for (let i = 0; i <= 100; i ++) {
@@ -10,9 +10,9 @@ function countSort(arr) {
                     //if i is in the first half of the array, conver it to a '-'
                     //else it is the character in arr[j][1]
                     if (j < arr.length/2) {
-                        output += ('-' + " ")
+                        output += ('- ')
                     } else {
-                        output += (arr[j][1] + " ")
+                        output += (arr[j][1] + ' ')
                     }
                 }
             }
