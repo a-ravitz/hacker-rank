@@ -12,6 +12,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/diagonal_difference.js)|
 [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/plusMinus.js)|
 [Staircase](https://www.hackerrank.com/challenges/staircase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/staircase.js)|
+[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/find_digits.js)
 [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/kangaroo.js)|
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)|
 [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/drawingBook.js)
