@@ -14,6 +14,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Staircase](https://www.hackerrank.com/challenges/staircase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/staircase.js)|
 [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/kangaroo.js)|
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)|
+[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/drawingBook.js)
 [Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/cats_and_a_mouse.js)|
 [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/time_conversion.js)|
 [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/birthday_cake_candles.js)|
