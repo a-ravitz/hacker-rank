@@ -25,6 +25,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_hurdle_race.js)|
 [Apples And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/apples_and_oranges.js)|
 [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/migratory_birds.js)|
+[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/picking_numbers.js)|The second, much more ellegant solution, is from @bryank on HackerRank
 [Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)|
 [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)|
 [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/strongPassword.js)|
