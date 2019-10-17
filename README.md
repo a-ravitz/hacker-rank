@@ -28,6 +28,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/picking_numbers.js)|The second, more ellegant solution, is from @bryank on HackerRank
 [Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)|
 [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)|
+[Sherlock And Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sherlock_and_squares.js)
 [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/strongPassword.js)|
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)|
 [Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/encryption.js)|
