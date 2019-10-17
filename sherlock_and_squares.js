@@ -15,4 +15,3 @@ function squares(a, b) {
 console.log(squares(10, 30));
 console.log(squares(17, 24));
 console.log(squares(385793959, 712365911));
-console.log(Math.sqrt(70))
