@@ -3,7 +3,7 @@ function designerPdfViewer(h, word) {
   let max = 0;
 
   //lowercase letter's character codes are between 97 and 123
-  //so any lowercase letter's charactercode - 97 would be its index in the height array (h)
+  //so any lowercase letter's charactercode - 97 would be its index (0-25) in the height array (h)
 
   for (let i = 0; i < word.length; i++) {
 
