@@ -15,6 +15,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/find_digits.js)
 [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/kangaroo.js)|
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mini_max.js)|
+[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/angry_professor.js)
 [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/pdf_viewer.js)
 [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/drawingBook.js)|The second, more ellegant solution, is from @sakai_stanley on HackerRank
 [Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/cats_and_a_mouse.js)|
