@@ -1,19 +1,18 @@
 function viralAdvertising(n) {
 
-    let cumulitive = [2], day = 1, liked = 2, shared = 5;
+    let cumulitive = 2, day = 1, liked = 2, shared = 5;
     
     while (day < n) {
-        shared = liked * 3;
-        nextDay(shared);
+        nextDay(shared = liked * 3);
     };
     
     function nextDay (x) {
-        cumulitive.push(Math.floor(x/2));
+        cumulitive += (Math.floor(x/2));
         liked = Math.floor(x/2);
         day++;
     };
 
-    return cumulitive.reduce((a,b) => a+b)
+    return cumulitive
 }   
 
-console.log(viralAdvertising(3))
+console.log(viralAdvertising(34))
