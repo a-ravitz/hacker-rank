@@ -1,9 +1,9 @@
 function viralAdvertising(n) {
 
-    let cumulitive = 2, day = 1, liked = 2, shared = 5;
+    let cumulitive = 2, day = 1, liked = 2;
     
     while (day < n) {
-        nextDay(shared = liked * 3);
+        nextDay(liked * 3);
     };
     
     function nextDay (x) {
