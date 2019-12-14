@@ -31,6 +31,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/picking_numbers.js)|The second, more ellegant solution, is from @bryank on HackerRank
 [Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)|
 [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)|
+[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/insertion_sort_-_part_1.js)
 [Sherlock And Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sherlock_and_squares.js)
 [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/strongPassword.js)|
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)|
@@ -103,7 +104,6 @@ HackerRank | Difficulty Level | Solution
 HackerRank | Difficulty Level | Solution|Notes
 ----------|-------------------|----------|---------
 [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|
-[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/insertion_sort_-_part_1.js)
 [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/mark_and_toys.js)|
 [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sorting_comparator.js)|There was no way to test this on HackerRank with JavaScript, but I think this solution would work. 
 
