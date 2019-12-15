@@ -6,11 +6,14 @@ function insertionSort1(n, arr) {
     if (last < arr[i - 1]) {
         arr[i] = arr[i - 1];
         console.log(arr.join(" "));
-    } else if (last > arr[i]) {
-        arr[i + 1] = last;
-        console.log(arr.join(" "));
         break;
-    } else if (arr[0] === arr[1]) {
+    } 
+    // else if (last > arr[i]) {
+    //     arr[i + 1] = last;
+    //     console.log(arr.join(" "));
+    //     break;
+    // }
+     else if (arr[0] === arr[1]) {
         arr[0] = last
         console.log(arr.join(" "));
     }
