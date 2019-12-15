@@ -32,6 +32,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)|
 [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)|
 [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/insertion_sort_-_part_1.js)
+[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/insertion_sort_-_part_2.js)
 [Sherlock And Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sherlock_and_squares.js)
 [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/strongPassword.js)|
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)|
