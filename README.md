@@ -31,6 +31,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/picking_numbers.js)|The second, more ellegant solution, is from @bryank on HackerRank
 [Super Reduced Strings](https://www.hackerrank.com/challenges/reduced-string/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/super_reduced_string.js)|
 [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/camelCase.js)|
+[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/electronics_shop.js)
 [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/insertion_sort_-_part_1.js)
 [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/insertion_sort_-_part_2.js)
 [Sherlock And Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sherlock_and_squares.js)
