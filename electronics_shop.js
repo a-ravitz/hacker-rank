@@ -28,8 +28,8 @@ function getMoneySpent(keyboards, drives, b) {
 
   for (let i = 0; i <= x; i++) {
     for (let a = 0; a <= y; a++) {
-      if (x1[i] + y1[a] <= b) {
-        c = x1[i] + y1[a];
+      c = x1[i] + y1[a];
+      if (c <= b) {
         if (c > max) {
           max = c;
         }
