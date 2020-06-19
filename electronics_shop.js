@@ -13,9 +13,7 @@ function getMoneySpent(keyboards, drives, b) {
   let max = 0;
   let x1, y1, x, y, c;
 
-  keyboards.length > drives.length
-    ? (x = keyboards.length)
-    : (x = drives.length);
+  keyboards.length > drives.length ? (x = keyboards.length) : (x = drives.length);
   x === keyboards.length ? (y = drives.length) : (y = keyboards.length);
 
   if (x === keyboards.length) {
