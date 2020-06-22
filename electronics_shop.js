@@ -19,7 +19,7 @@ function getMoneySpent(keyboards, drives, b) {
         if (c > max) {
           max = c
         }
-        }
+      }
     }
   }
   return max > b || max === 0 ? -1 : max;
