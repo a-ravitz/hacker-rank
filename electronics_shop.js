@@ -12,8 +12,8 @@
 function getMoneySpent(keyboards, drives, b) {
   let max = 0, c; 
 
-  for (let i = 0; i <= keyboards.length; i++) {
-    for (let a = 0; a <= drives.length; a++ ) {
+  for (let i = 0; i < keyboards.length; i++) {
+    for (let a = 0; a < drives.length; a++ ) {
       c = keyboards[i] + drives[a]
       if (c <= b) {
         if (c > max) {
