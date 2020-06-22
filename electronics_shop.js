@@ -10,31 +10,18 @@
 //She chooses the latter. She can't buy more than 2 items so she can't spend exactly 60.
 
 function getMoneySpent(keyboards, drives, b) {
-  let max = 0;
-  let x1, y1, x, y, c;
+  let max = 0, c; 
 
-  keyboards.length > drives.length ? (x = keyboards.length) : (x = drives.length);
-  x === keyboards.length ? (y = drives.length) : (y = keyboards.length);
-
-  if (x === keyboards.length) {
-    x1 = keyboards;
-    y1 = drives;
-  } else {
-    x1 = drives;
-    y1 = keyboards;
-  }
-
-  for (let i = 0; i <= x; i++) {
-    for (let a = 0; a <= y; a++) {
-      c = x1[i] + y1[a];
+  for (let i = 0; i <= keyboards.length; i++) {
+    for (let a = 0; a <= drives.length; a++ ) {
+      c = keyboards[i] + drives[a]
       if (c <= b) {
         if (c > max) {
-          max = c;
+          max = c
         }
-      }
+        }
     }
   }
-
   return max > b || max === 0 ? -1 : max;
 }
 
