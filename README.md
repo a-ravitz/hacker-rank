@@ -44,6 +44,13 @@ HackerRank | Difficulty Level | Solution| Notes
 [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/max_min.js)|
 [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem?h_r=internal-search)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/countSort.js)|This code isn't effecient enough to pass test case 5
 
+## RegEx 
+HackerRank | Difficulty Level | Solution | Notes 
+----------|-------------------|----------|-------------
+[Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)|Easy|[Code](https://www.github.com/a-ravitz/hacker-rank/blob/master/matching_specific_string.js)
+[Matching {X} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
+[Matching Anything But A New Line](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_anything_but_a_new_line.js)
+
 ## Mathematics 
 HackerRank | Difficulty Level | Solution | Notes 
 ----------|-------------------|----------|-------------
