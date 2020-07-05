@@ -71,6 +71,7 @@ HackerRank | Difficulty Level | Solution | Notes
 HackerRank | Difficulty Level | Solution| Notes
 ----------|-------------------|---------|------
 [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
+[Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x,y}_repetitions.js)
 
 # 10 Days of JavaScript
 
