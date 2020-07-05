@@ -73,7 +73,8 @@ HackerRank | Difficulty Level | Solution | Notes
 HackerRank | Difficulty Level | Solution| Notes
 ----------|-------------------|---------|------
 [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
-[Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x,y}_repetitions.js)
+[Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x,y}_repetitions.js)|
+[Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_zero_or_more_repetitions.js)|
 
 ---
 
