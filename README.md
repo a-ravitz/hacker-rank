@@ -61,21 +61,22 @@ HackerRank | Difficulty Level | Solution | Notes
 
 HackerRank | Difficulty Level | Solution | Notes 
 ----------|-------------------|----------|-------------
-[Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)|Easy|[Code](https://www.github.com/a-ravitz/hacker-rank/blob/master/matching_specific_string.js)
-[Matching {X} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
-[Matching Anything But A New Line](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_anything_but_a_new_line.js)
-[Matching Digits & Non Digit Character](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_digits_non_digit_character.js)|
-[Matching Whitespace & Non Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_whitespace_non_whitespace_characters.js)
-[Matching Word & Non Word](https://www.hackerrank.com/challenges/matching-word-non-word/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_word_non_word.js)|
-[Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_start_end.js)|
+[Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)|Easy|[Code](https://www.github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_specific_string.js)
+[Matching {X} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x}_repetitions.js)|
+[Matching Anything But A New Line](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_anything_but_a_new_line.js)
+[Matching Digits & Non Digit Character](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_digits_non_digit_character.js)|
+[Matching Whitespace & Non Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_whitespace_non_whitespace_characters.js)
+[Matching Word & Non Word](https://www.hackerrank.com/challenges/matching-word-non-word/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_word_non_word.js)|
+[Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_start_end.js)|
 
 ## Repetitions
 HackerRank | Difficulty Level | Solution| Notes
 ----------|-------------------|---------|------
-[Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
-[Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x,y}_repetitions.js)|
-[Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_zero_or_more_repetitions.js)|
-
+[Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x}_repetitions.js)|
+[Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x,y}_repetitions.js)|
+[Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_zero_or_more_repetitions.js)|
+[Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_one_or_more_repetitions.js)|
+[Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_ending_items.js)|
 ---
 
 # 10 Days of JavaScript
