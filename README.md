@@ -50,6 +50,7 @@ HackerRank | Difficulty Level | Solution | Notes
 [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)|Easy|[Code](https://www.github.com/a-ravitz/hacker-rank/blob/master/matching_specific_string.js)
 [Matching {X} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
 [Matching Anything But A New Line](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_anything_but_a_new_line.js)
+[Matching Digits Non Digit Character](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/matching_digits_non_digit_character.js)|
 
 ## Mathematics 
 HackerRank | Difficulty Level | Solution | Notes 
