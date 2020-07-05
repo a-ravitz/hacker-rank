@@ -44,15 +44,8 @@ HackerRank | Difficulty Level | Solution| Notes
 [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/max_min.js)|
 [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem?h_r=internal-search)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/countSort.js)|This code isn't effecient enough to pass test case 5
 
-## RegEx 
-HackerRank | Difficulty Level | Solution | Notes 
-----------|-------------------|----------|-------------
-[Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)|Easy|[Code](https://www.github.com/a-ravitz/hacker-rank/blob/master/matching_specific_string.js)
-[Matching {X} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
-[Matching Anything But A New Line](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_anything_but_a_new_line.js)
-[Matching Digits Non Digit Character](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_digits_non_digit_character.js)|
-
 ## Mathematics 
+
 HackerRank | Difficulty Level | Solution | Notes 
 ----------|-------------------|----------|-------------
 [Handshake](https://www.hackerrank.com/challenges/handshake/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/handshakes.js)|
@@ -60,6 +53,24 @@ HackerRank | Difficulty Level | Solution | Notes
 [Army Game](https://www.hackerrank.com/challenges/game-with-cells)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/army_game.js)|
 [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_height_triangle.js)|
 [Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/leonardos_prime_factors.js)|This code isn't effecient enough to pass test case 17
+
+# RegEx 
+## Introduction
+
+HackerRank | Difficulty Level | Solution | Notes 
+----------|-------------------|----------|-------------
+[Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)|Easy|[Code](https://www.github.com/a-ravitz/hacker-rank/blob/master/matching_specific_string.js)
+[Matching {X} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
+[Matching Anything But A New Line](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_anything_but_a_new_line.js)
+[Matching Digits & Non Digit Character](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_digits_non_digit_character.js)|
+[Matching Whitespace & Non Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_whitespace_non_whitespace_characters.js)
+[Matching Word & Non Word](https://www.hackerrank.com/challenges/matching-word-non-word/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_word_non_word.js)|
+[Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_start_end.js)|
+
+## Repetitions
+HackerRank | Difficulty Level | Solution| Notes
+----------|-------------------|---------|------
+[Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
 
 # 10 Days of JavaScript
 
