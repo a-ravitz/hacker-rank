@@ -54,6 +54,8 @@ HackerRank | Difficulty Level | Solution | Notes
 [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/minimum_height_triangle.js)|
 [Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/leonardos_prime_factors.js)|This code isn't effecient enough to pass test case 17
 
+---
+
 # RegEx 
 ## Introduction
 
@@ -72,6 +74,8 @@ HackerRank | Difficulty Level | Solution| Notes
 ----------|-------------------|---------|------
 [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x}_repetitions.js)|
 [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/matching_{x,y}_repetitions.js)
+
+---
 
 # 10 Days of JavaScript
 
@@ -101,6 +105,8 @@ HackerRank | Difficulty Level | Solution | Finished Product
 [Day 8: Create A Button](https://www.hackerrank.com/challenges/js10-create-a-button?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_create_a_button)|[Create A Button](https://a-ravitz.github.io/hacker-rank/10%20days%20of%20JavaScript/day_8_create_a_button/index.html)
 [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container?hr_b=1)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_8_buttons_container)|[Buttons Container](https://a-ravitz.github.io/hacker-rank/10%20days%20of%20JavaScript/day_8_buttons_container/index.html)
 [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator?hr_b=1)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/tree/master/10%20days%20of%20JavaScript/day_9_binary_calculator)|[Binary Calculator](https://a-ravitz.github.io/hacker-rank/10%20days%20of%20JavaScript/day_9_binary_calculator/index.html)
+
+---
 
 # Interview Preperation Kit
 ## Warm-up Challenges
