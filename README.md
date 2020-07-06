@@ -79,11 +79,15 @@ HackerRank | Difficulty Level | Solution| Notes
 [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_ending_items.js)|
 
 ## Character Class
+HackerRank | Difficulty Level | Solution| Notes
+----------|-------------------|---------|------
 [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_specific_characters.js)
 [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)|Easy|[Code]|https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/excluding_specific_characters.js)
 [Matching Character Range](https://www.hackerrank.com/challenges/matching-range-of-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_character_range.js)
 
 ## Grouping and Capturing 
+HackerRank | Difficulty Level | Solution| Notes
+----------|-------------------|---------|------
 [Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_word_boundaries.js)
 [Capturing & Non Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/capturing_non_capturing_groups.js)
 ---
