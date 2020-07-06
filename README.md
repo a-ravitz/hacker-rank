@@ -91,6 +91,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_word_boundaries.js)|
 [Capturing & Non Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/capturing_non_capturing_groups.js)|
 [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/alternative_matching.js)|
+[Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_same_text_again_again.js)|
 
 ---
 
