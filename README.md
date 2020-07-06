@@ -82,7 +82,7 @@ HackerRank | Difficulty Level | Solution| Notes
 HackerRank | Difficulty Level | Solution| Notes
 ----------|-------------------|---------|------
 [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_specific_characters.js)|
-[Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)|Easy|[Code]|g(https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/excluding_specific_characters.js)|
+[Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/excluding_specific_characters.js)|
 [Matching Character Range](https://www.hackerrank.com/challenges/matching-range-of-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_character_range.js)|
 
 ## Grouping and Capturing 
