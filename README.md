@@ -93,6 +93,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/alternative_matching.js)|
 [Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_same_text_again_again.js)|
 [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/backreferences_to_failed_groups.js)
+[Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/branch_reset_groups.js)
 
 ---
 
