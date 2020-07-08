@@ -191,3 +191,8 @@ HackerRank | Difficulty Level | Solution
 [Positive Lookbehind](https://www.hackerrank.com/challenges/positive-lookbehind/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/positive_lookbehind.js)
 [Negative Lookbehind](https://www.hackerrank.com/challenges/negatve-lookbehind/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/negative_lookbehind.js)
 
+## Applications
+HackerRank | Difficulty Level | Solution
+----------|-------------------|---------
+[Valid Pan Format](https://www.hackerrank.com/challenges/valid-pan-format/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/valid_pan_format.js)
+
