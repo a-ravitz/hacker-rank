@@ -142,45 +142,49 @@ HackerRank | Difficulty Level | Solution
 # RegEx 
 ## Introduction
 
-HackerRank | Difficulty Level | Solution | Notes 
-----------|-------------------|----------|-------------
+HackerRank | Difficulty Level | Solution 
+----------|-------------------|----------
 [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string/problem)|Easy|[Code](https://www.github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_specific_string.js)
-[Matching {X} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x}_repetitions.js)|
+[Matching {X} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x}_repetitions.js)
 [Matching Anything But A New Line](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_anything_but_a_new_line.js)
-[Matching Digits & Non Digit Character](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_digits_non_digit_character.js)|
+[Matching Digits & Non Digit Character](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_digits_non_digit_character.js)
 [Matching Whitespace & Non Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_whitespace_non_whitespace_characters.js)
-[Matching Word & Non Word](https://www.hackerrank.com/challenges/matching-word-non-word/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_word_non_word.js)|
-[Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_start_end.js)|
+[Matching Word & Non Word](https://www.hackerrank.com/challenges/matching-word-non-word/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_word_non_word.js)
+[Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_start_end.js)
 
 ## Repetitions
-HackerRank | Difficulty Level | Solution| Notes
-----------|-------------------|---------|------
-[Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x}_repetitions.js)|
-[Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x,y}_repetitions.js)|
-[Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_zero_or_more_repetitions.js)|
-[Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_one_or_more_repetitions.js)|
-[Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_ending_items.js)|
+HackerRank | Difficulty Level | Solution
+----------|-------------------|---------
+[Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x}_repetitions.js)
+[Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_{x,y}_repetitions.js)
+[Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_zero_or_more_repetitions.js)
+[Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repetitions/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_one_or_more_repetitions.js)
+[Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_ending_items.js)
 
 ## Character Class
-HackerRank | Difficulty Level | Solution| Notes
-----------|-------------------|---------|------
-[Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_specific_characters.js)|
-[Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/excluding_specific_characters.js)|
-[Matching Character Range](https://www.hackerrank.com/challenges/matching-range-of-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_character_range.js)|
+HackerRank | Difficulty Level | Solution
+----------|-------------------|---------
+[Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_specific_characters.js)
+[Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/excluding_specific_characters.js)
+[Matching Character Range](https://www.hackerrank.com/challenges/matching-range-of-characters/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_character_range.js)
 
 ## Grouping and Capturing 
-HackerRank | Difficulty Level | Solution| Notes
-----------|-------------------|---------|------
-[Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_word_boundaries.js)|
-[Capturing & Non Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/capturing_non_capturing_groups.js)|
-[Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/alternative_matching.js)|
+HackerRank | Difficulty Level | Solution
+----------|-------------------|---------
+[Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_word_boundaries.js)
+[Capturing & Non Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/capturing_non_capturing_groups.js)
+[Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/alternative_matching.js)
 
 ## Backreferences
-[Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_same_text_again_again.js)|
+HackerRank | Difficulty Level | Solution
+----------|-------------------|---------
+[Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/matching_same_text_again_again.js)
 [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/backreferences_to_failed_groups.js)
 [Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/branch_reset_groups.js)
 [Forward References](https://www.hackerrank.com/challenges/forward-references/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/forward_references.js)
 
 ## Assertions
+HackerRank | Difficulty Level | Solution
+----------|-------------------|---------
 [Positive Lookahead](https://www.hackerrank.com/challenges/positive-lookahead/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/positive_lookahead.js)
 
