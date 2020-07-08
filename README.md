@@ -187,8 +187,7 @@ HackerRank | Difficulty Level | Solution
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|---------
 [Positive Lookahead](https://www.hackerrank.com/challenges/positive-lookahead/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/positive_lookahead.js)
-[Negative Lookahead](https://www.hackerrank.com/challenges/negative-lookkahead/problem)|Easy|[Code](
-https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/negative_lookahead.js)
+[Negative Lookahead](https://www.hackerrank.com/challenges/negative-lookkahead/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/negative_lookahead.js)
 [Positive Lookbehind](https://www.hackerrank.com/challenges/positive-lookbehind/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/positive_lookbehind.js)
 [Negative Lookbehind](https://www.hackerrank.com/challenges/negatve-lookbehind/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/negative_lookbehind.js)
 
