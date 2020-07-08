@@ -181,3 +181,6 @@ HackerRank | Difficulty Level | Solution| Notes
 [Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/branch_reset_groups.js)
 [Forward References](https://www.hackerrank.com/challenges/forward-references/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/forward_references.js)
 
+## Assertions
+[Positive Lookahead](https://www.hackerrank.com/challenges/positive-lookahead/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/positive_lookahead.js)
+
