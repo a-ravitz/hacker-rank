@@ -196,4 +196,5 @@ HackerRank | Difficulty Level | Solution
 HackerRank | Difficulty Level | Solution
 ----------|-------------------|---------
 [Valid Pan Format](https://www.hackerrank.com/challenges/valid-pan-format/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/valid_pan_format.js)
+[Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/RegEx/detect_html_tags.js)
 
