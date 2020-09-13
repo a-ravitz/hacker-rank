@@ -37,6 +37,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/insertion_sort_-_part_2.js)
 [Sherlock And Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/sherlock_and_squares.js)
 [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/strongPassword.js)|
+[Beautiful Days At the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|Easy|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/beautiful_days_at_the_movies.js)|
 [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/the_time_in_words.js)|
 [Encryption](https://www.hackerrank.com/challenges/encryption/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/encryption.js)|
 [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/extra_long_factorials.js)|
