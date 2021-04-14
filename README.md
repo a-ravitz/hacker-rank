@@ -44,6 +44,7 @@ HackerRank | Difficulty Level | Solution| Notes
 [Pairs](https://www.hackerrank.com/challenges/pairs/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/pairs.js)|
 [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/max_min.js)|
 [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem?h_r=internal-search)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/countSort.js)|This code isn't effecient enough to pass test case 5
+[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|Medium|[Code](https://github.com/a-ravitz/hacker-rank/blob/master/bigger_is_greater.js)
 
 ## Mathematics 
 
